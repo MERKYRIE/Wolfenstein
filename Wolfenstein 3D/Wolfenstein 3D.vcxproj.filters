@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Основной исходный код">
+      <UniqueIdentifier>{b9c585c9-cd3b-42d5-8387-b6a6f18a0cd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Заголовочные файлы модулей">
+      <UniqueIdentifier>{47853eaa-9c80-4a8a-8bc2-842ea8e9d408}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные коды модулей">
+      <UniqueIdentifier>{2a67fafd-a9e4-41ee-a9a2-9b5803531876}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Units\Includes\Merk\MERK_Audio.h">
+      <Filter>Заголовочные файлы модулей</Filter>
+    </ClInclude>
+    <ClInclude Include="Units\Includes\Merk\MERK_Column.h">
+      <Filter>Заголовочные файлы модулей</Filter>
+    </ClInclude>
+    <ClInclude Include="Units\Includes\Merk\MERK_Core.h">
+      <Filter>Заголовочные файлы модулей</Filter>
+    </ClInclude>
+    <ClInclude Include="Units\Includes\Merk\MERK_Graph.h">
+      <Filter>Заголовочные файлы модулей</Filter>
+    </ClInclude>
+    <ClInclude Include="Units\Includes\Merk\MERK_Math.h">
+      <Filter>Заголовочные файлы модулей</Filter>
+    </ClInclude>
+    <ClInclude Include="Units\Includes\Merk\MERK_Misc.h">
+      <Filter>Заголовочные файлы модулей</Filter>
+    </ClInclude>
+    <ClInclude Include="Units\Includes\Merk\MERK_Ray.h">
+      <Filter>Заголовочные файлы модулей</Filter>
+    </ClInclude>
+    <ClInclude Include="Units\Includes\Merk\MERK_Screen.h">
+      <Filter>Заголовочные файлы модулей</Filter>
+    </ClInclude>
+    <ClInclude Include="Units\Includes\Merk\MERK_Table.h">
+      <Filter>Заголовочные файлы модулей</Filter>
+    </ClInclude>
+    <ClInclude Include="Units\Includes\Merk\MERK_User.h">
+      <Filter>Заголовочные файлы модулей</Filter>
+    </ClInclude>
+    <ClInclude Include="Units\Includes\Merk\MERK_World.h">
+      <Filter>Заголовочные файлы модулей</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Units\Sources\Wolfenstein 3D\Wolfenstein 3D.cpp">
+      <Filter>Основной исходный код</Filter>
+    </ClCompile>
+    <ClCompile Include="Units\Sources\Merk\MERK_Audio.cpp">
+      <Filter>Исходные коды модулей</Filter>
+    </ClCompile>
+    <ClCompile Include="Units\Sources\Merk\MERK_Column.cpp">
+      <Filter>Исходные коды модулей</Filter>
+    </ClCompile>
+    <ClCompile Include="Units\Sources\Merk\MERK_Core.cpp">
+      <Filter>Исходные коды модулей</Filter>
+    </ClCompile>
+    <ClCompile Include="Units\Sources\Merk\MERK_Graph.cpp">
+      <Filter>Исходные коды модулей</Filter>
+    </ClCompile>
+    <ClCompile Include="Units\Sources\Merk\MERK_Math.cpp">
+      <Filter>Исходные коды модулей</Filter>
+    </ClCompile>
+    <ClCompile Include="Units\Sources\Merk\MERK_Misc.cpp">
+      <Filter>Исходные коды модулей</Filter>
+    </ClCompile>
+    <ClCompile Include="Units\Sources\Merk\MERK_Ray.cpp">
+      <Filter>Исходные коды модулей</Filter>
+    </ClCompile>
+    <ClCompile Include="Units\Sources\Merk\MERK_Screen.cpp">
+      <Filter>Исходные коды модулей</Filter>
+    </ClCompile>
+    <ClCompile Include="Units\Sources\Merk\MERK_Table.cpp">
+      <Filter>Исходные коды модулей</Filter>
+    </ClCompile>
+    <ClCompile Include="Units\Sources\Merk\MERK_User.cpp">
+      <Filter>Исходные коды модулей</Filter>
+    </ClCompile>
+    <ClCompile Include="Units\Sources\Merk\MERK_World.cpp">
+      <Filter>Исходные коды модулей</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Основной исходный код">
+      <UniqueIdentifier>{c2c54e03-3891-45bd-bea3-5b7661cb2292}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Заголовчные файлы модулей">
+      <UniqueIdentifier>{4ec4ab11-c6fa-4278-9751-9b4ef6fa7f96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные коды модулей">
+      <UniqueIdentifier>{79fcad8e-c801-457c-aa9d-5d8a07020930}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Units\Sources\Wolfenstein 3D Map Editor\Wolfenstein 3D Map Editor.cpp">
+      <Filter>Основной исходный код</Filter>
+    </ClCompile>
+    <ClCompile Include="Units\Sources\Merk\MERK_Core.cpp">
+      <Filter>Исходные коды модулей</Filter>
+    </ClCompile>
+    <ClCompile Include="Units\Sources\Merk\MERK_Graph.cpp">
+      <Filter>Исходные коды модулей</Filter>
+    </ClCompile>
+    <ClCompile Include="Units\Sources\Merk\MERK_Misc.cpp">
+      <Filter>Исходные коды модулей</Filter>
+    </ClCompile>
+    <ClCompile Include="Units\Sources\Merk\MERK_Polygon.cpp">
+      <Filter>Исходные коды модулей</Filter>
+    </ClCompile>
+    <ClCompile Include="Units\Sources\Merk\MERK_Screen.cpp">
+      <Filter>Исходные коды модулей</Filter>
+    </ClCompile>
+    <ClCompile Include="Units\Sources\Merk\MERK_Text.cpp">
+      <Filter>Исходные коды модулей</Filter>
+    </ClCompile>
+    <ClCompile Include="Units\Sources\Merk\MERK_User.cpp">
+      <Filter>Исходные коды модулей</Filter>
+    </ClCompile>
+    <ClCompile Include="Units\Sources\Merk\MERK_World.cpp">
+      <Filter>Исходные коды модулей</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Units\Includes\Merk\MERK_Core.h">
+      <Filter>Заголовчные файлы модулей</Filter>
+    </ClInclude>
+    <ClInclude Include="Units\Includes\Merk\MERK_Graph.h">
+      <Filter>Заголовчные файлы модулей</Filter>
+    </ClInclude>
+    <ClInclude Include="Units\Includes\Merk\MERK_Misc.h">
+      <Filter>Заголовчные файлы модулей</Filter>
+    </ClInclude>
+    <ClInclude Include="Units\Includes\Merk\MERK_Polygon.h">
+      <Filter>Заголовчные файлы модулей</Filter>
+    </ClInclude>
+    <ClInclude Include="Units\Includes\Merk\MERK_Screen.h">
+      <Filter>Заголовчные файлы модулей</Filter>
+    </ClInclude>
+    <ClInclude Include="Units\Includes\Merk\MERK_Text.h">
+      <Filter>Заголовчные файлы модулей</Filter>
+    </ClInclude>
+    <ClInclude Include="Units\Includes\Merk\MERK_User.h">
+      <Filter>Заголовчные файлы модулей</Filter>
+    </ClInclude>
+    <ClInclude Include="Units\Includes\Merk\MERK_World.h">
+      <Filter>Заголовчные файлы модулей</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
